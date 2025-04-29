@@ -1,0 +1,16 @@
+arxiv
+wikipedia
+langchain-community
+langchain
+pypdf
+langchain_groq
+transformers
+validator #work with ULR to validate
+youtube-transcript-api
+streamlit
+validators
+unstructured
+pytube
+PyPDF2
+docx
+py-exceptions
